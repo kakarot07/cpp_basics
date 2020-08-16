@@ -1,0 +1,4 @@
+C:\Users\Anas\Documents\cpp\ifelse\if_else.cpp:1:9: fatal error: iostram: No such file or directory
+ #include<iostram>
+         ^~~~~~~~~
+compilation terminated.
