@@ -10,7 +10,7 @@ int main(){
     else if(b>c&&b>a)
     cout<<b<<" is largest ";
     else
-    cout<<c<<" is largest";
+    cout<<c<<" is largest ";
 
 
 }
