@@ -8,7 +8,7 @@ int main(){
   if(a=='a'|| a=='e'|| a=='i'|| a=='o'|| a=='u'|| a=='A'|| a=='E'|| a=='I'|| a=='O' || a=='U'){
     cout<<"the alphabet is vowel "<<a<<"\n";
   }
-  else if(a>='A'&& a<='Z' || a>='a'&&a<='z'){
+  else if(a>='A'&&a<='Z' || a>='a'&&a<='z'){
     cout<<"the alphabet is constant"<<a<<"\n";
   }
   else
